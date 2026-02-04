@@ -33,14 +33,6 @@ This project relies on the Python standard library, so no external `pip` install
 * Tkinter (Included with standard Python installs on Windows/macOS. On Linux, you may need `sudo apt-get install python3-tk`).
 
 ### Running the App
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/MarioAouad/Robot-Collector.git](https://github.com/MarioAouad/Robot-Collector.git)
-   cd REPO-NAME
-Run the application:
-
-Bash
-python run.py
 🎮 How to Use
 Select Settings: Choose your grid size (10, 20, or 50) and Algorithm (A* or UCS).
 
